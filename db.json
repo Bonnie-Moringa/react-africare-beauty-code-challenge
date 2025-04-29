@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": "ba86",
+      "email": "bonnie.sword14@gmail.com",
+      "password": "@Bonnie003"
+    },
+    {
+      "id": "da1f",
+      "email": "bonnie.sword14@gmail.com",
+      "password": "@Bonnie003"
+    },
+    {
+      "id": "8811",
+      "email": "kimanityson@gmail.com",
+      "password": "Kimani009"
+    },
+    {
+      "id": "e0d2",
+      "firstName": "Kimani",
+      "secondName": "Tyson",
+      "phone": "0765787383",
+      "email": "kimanityson@gmail.com",
+      "location": "Ruiru",
+      "password": "Kimani009"
+    },
+    {
+      "id": "274f",
+      "firstName": "George",
+      "secondName": "Okoth",
+      "phone": "0765787303",
+      "email": "georgeokoth34@gmail.com",
+      "location": "Kiambu",
+      "password": "George23"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Body Lotion",
+      "price": 150,
+      "image": "/images/body-lotion.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Face Cream",
+      "price": 165,
+      "image": "/images/face-cream.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Shea Butter",
+      "price": 200,
+      "image": "/images/shea-butter.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Coconut Oil",
+      "price": 380,
+      "image": "/images/coconut-oil.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Argan Oil Serum",
+      "price": 250,
+      "image": "/images/argan-oil.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Cleanser",
+      "price": 250,
+      "image": "/images/cleanser.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Mascara",
+      "price": 200,
+      "image": "/images/mascara.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Lipsticks",
+      "price": 100,
+      "image": "/images/lipstick.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Concealers",
+      "price": 130,
+      "image": "/images/concealer.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Foundations",
+      "price": 135,
+      "image": "/images/foundations.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Face Masks",
+      "price": 350,
+      "image": "/images/face-masks.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Sauvage-Dior Perfume",
+      "price": 8000,
+      "image": "/images/perfume.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6488",
+      "userId": "ba86",
+      "items": [
+        {
+          "id": "1",
+          "name": "Body Lotion",
+          "price": 10
+        }
+      ],
+      "total": 10,
+      "date": "2025-04-29T03:46:58.683Z"
+    },
+    {
+      "id": "6f45",
+      "userId": "ba86",
+      "items": [
+        {
+          "id": "1",
+          "name": "Body Lotion",
+          "price": 10
+        }
+      ],
+      "total": 10,
+      "date": "2025-04-29T03:47:20.829Z"
+    },
+    {
+      "id": "fadd",
+      "userId": "ba86",
+      "items": [
+        {
+          "id": "2",
+          "name": "Face Cream",
+          "price": 15
+        },
+        {
+          "id": "2",
+          "name": "Face Cream",
+          "price": 15
+        },
+        {
+          "id": "2",
+          "name": "Face Cream",
+          "price": 15
+        }
+      ],
+      "total": 45,
+      "date": "2025-04-29T03:47:27.362Z"
+    },
+    {
+      "id": "1539",
+      "items": [
+        {
+          "id": 3,
+          "name": "Shea Butter",
+          "price": 20,
+          "image": "/images/shea-butter.jpg"
+        }
+      ],
+      "date": "2025-04-29T06:32:41.457Z"
+    },
+    {
+      "id": "a436",
+      "items": [
+        {
+          "id": "1",
+          "name": "Body Lotion",
+          "price": 150,
+          "image": "/images/body-lotion.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Coconut Oil",
+          "price": 380,
+          "image": "/images/coconut-oil.jpg"
+        }
+      ],
+      "date": "2025-04-29T06:59:40.114Z"
+    },
+    {
+      "id": "4a99",
+      "items": [
+        {
+          "id": "5",
+          "name": "Argan Oil Serum",
+          "price": 250,
+          "image": "/images/argan-oil.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Coconut Oil",
+          "price": 380,
+          "image": "/images/coconut-oil.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Sauvage-Dior Perfume",
+          "price": 8000,
+          "image": "/images/perfume.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Face Masks",
+          "price": 350,
+          "image": "/images/face-masks.jpg"
+        }
+      ],
+      "date": "2025-04-29T07:15:15.239Z"
+    },
+    {
+      "id": "8fcf",
+      "items": [
+        {
+          "id": "5",
+          "name": "Argan Oil Serum",
+          "price": 250,
+          "image": "/images/argan-oil.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Coconut Oil",
+          "price": 380,
+          "image": "/images/coconut-oil.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Face Masks",
+          "price": 350,
+          "image": "/images/face-masks.jpg"
+        }
+      ],
+      "date": "2025-04-29T07:56:51.585Z"
+    }
+  ]
+}
